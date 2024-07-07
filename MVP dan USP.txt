@@ -1,0 +1,37 @@
+LEARN MVP & USP
+
+MVP = Minimum Viable Product
+fungsinya itu untuk memvalidasi konsep produk dan mendapatkan feedback dari pengguna dan murah dari pada menghabiskan banyak waktu dan sumber daya untuk mengembangkan produk yang mungkin tidak diinginkan pasar.
+
+
+Manfaat Menggunakan MVP
+* Menghemat Waktu
+* Menghemat Biaya
+* Mengurangi resiko
+
+
+Airbnp
+ide: Para founder Airbnb melihat potensi bisnis dari ruang kosong di property mereka.
+
+MVP: Websire sederhanan yang menampilkan daftar properti dengan foto dan deskripsi singkat. Pemilik properti bisa mengatur ketersediaan dan harga. Tamu bisa melihat listing dan menghubungi pemilik untuk melakukan reservasi (mungkin masih via email)
+
+Validasi dan Improvement: Melihat apakah ada minat dari calon tamu untuk menyewa properti yang ditawarkan
+
+Menerima feedback dari tamu awal untuk meningkatkan layanan dan platform 
+
+Setelah mendapatkan daya tarik, Airbnb menambahkan fitur seperti sistem pembayaran online, ulasan tamu dan asuransi untuk keamanan
+
+
+USP = Unique Selling Proposition
+Fungsinya adalah menjelaskan nilai untuk yang ditawarkan untuk produk atau layanan dibandingkan dengan pesaing.
+USP harus jelas, ringkas, dan mudah diingat. USP kuat harus mampu menarik perhatian pelanggan dan meyakinkan mereka untuk memilih produk.
+
+Manfaat Menggunakan USP
+* Meningkatkan brand awareness
+* Meningkatkan konversi penjualan
+* Membangun loyalitas pelanggan
+
+Contoh Pemakaian USP
+Traveloka,
+USP: Platform pemesaana tiket pesawat, hotel, dan paket wisuda dengan harga terbaik dan kemudahan booking.
+Keunggulan: Memberikan solusi perjalanan yang mudah dan hemat untuk semua kalangan

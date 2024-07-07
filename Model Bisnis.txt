@@ -1,0 +1,49 @@
+LEARN: B2C, B2B, B2G, B2B2C, B2B2B
+
+yang biasa didengar yakni B2C, B2B, B2G
+
+B2C (Business to Consumer)
+Pada model bisnis B2C, perusahaan menjual produk atau layananya secara langsung kepada konsumen individu.
+
+Contohnya:
+* Toko Online: Amazon,Tokopedia, Shopee
+* Layanan Straming: Netflix, Spotify, Disney+Hostar
+* Resoran: McDonald's, KFC, Pizza Hut
+* Perusahaan telekomunikasi: Telkomsel, Indosat, XL Axiata.
+
+
+B2B (Business to Business)
+Pada model bisnis B2B, perusahaan menjual produk atau layanannya kepada perusahaan lain.
+
+Contohnya:
+* Perusahaan manufaktur: PT XYZ menjual suku cadangnya ke PT ABC.
+* Distributor: PT DEF mendistribusikan produk elektronik dari PT GHI ke toko elektronik
+* Perusahaan software: PT JKL menyediakan layanan manajemen proyek bagi perusahaan lain.
+
+
+
+B2G (Buisness to Government)
+Pada model bisnis B2G, perusahaan menjual produk atau layanannya kepada instansi pemerintah.
+
+Contohnya:
+* Perusahaan konstruksi: PT MNO membangun jalan tol untuk pemerintah
+* Perusahaan IT: PT PQR menyediakan solusi keamanan siber departemen pemerintah
+* Perusahaan jasa kebersihan: PT RST mengumpulkan sampah dari gedung-gedung pemerintahan.
+
+
+B2B2C (Business to Business to Consument)
+pada model bisnis B2B2C, perusahaan bermitra dengan perusahaan lain untuk menjual produk atau layanannya kepada konsumen.
+
+COntohnya:
+* Platform e-commerce: Tokopedia bermitra dengan Lazada untuk menawarkan lebih banyak produk kepada konsumen 
+* Perusahaan logistik: J&T Express bermitra dengan Shopee untuk mengantarkan barang pesanan konsumen
+*Perusahaan asuransi: AXA Mandiri bermitra dengan Bank Mandiri untuk menawarkan kepada nasabah bank.
+
+
+B2B2B (Business to Business to Buiness)
+Pada model bisnis B2B2B, perusahaan menjual produk atau layanannya kepada perusahaan lain, yang kemudian menjualnya kepada perusahaan lain lagi.
+
+Contohnya:
+* Perusahaan bahan baku: PT UVW menjual bahan baku plastik ke PT ABC 
+* Perusahaan manufaktur plastik: PT ABC menggunakan bahan baku plastik dari PT UVW untuk membuat produk plastik
+* Distributor produk plastik: PT DEF menjual produk plastik dari PT ABC ke toko-toko plastik.
